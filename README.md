@@ -95,3 +95,6 @@ The tab provides outputs of the selected preprocessing results and offers sugges
 ![Screenshot (140)](https://github.com/Divyam-Padole/Data-Analysis-Toolkit/assets/104207473/8c1b7d8c-c2d6-4c98-93d9-06f2b851f3e0)
 
 ![Screenshot (141)](https://github.com/Divyam-Padole/Data-Analysis-Toolkit/assets/104207473/e16169bd-9b51-4ae8-ba6e-fa9a1b7d3753)
+
+
+*Please note that the project is currently under development. More tabs will be added in the future, including a Data Analysis Tab and additional machine learning algorithms in the Preprocessing Tab. Thank you for your interest*
