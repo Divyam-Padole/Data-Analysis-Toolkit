@@ -31,6 +31,13 @@ The Sample Table Data section presents a subset of the imported dataset for quic
 #### Graph Section
 The Graph Section showcases visualizations generated from the dataset, allowing users to gain insights at a glance.
 
+Providing user the feather to add there desired attribute for the futher operation by giving the user the use the correation matrix for attibute selection
+![Screenshot 2024-06-07 154637](https://github.com/Divyam-Padole/Data-Analysis-Toolkit/assets/104207473/aa5db902-ff49-4b95-ba1c-7d9815c6816b)
+
+Heat map for the correalation matrix
+
+![Screenshot 2024-06-07 154617](https://github.com/Divyam-Padole/Data-Analysis-Toolkit/assets/104207473/62e53c88-542e-40a0-a864-9bd45286cc1e)
+
 ![Screenshot (124)](https://github.com/Divyam-Padole/Data-Analysis-Toolkit/assets/104207473/80e3ccd5-cb01-4c00-817d-5947f184182e)
 
 
@@ -95,6 +102,10 @@ The tab provides outputs of the selected preprocessing results and offers sugges
 ![Screenshot (140)](https://github.com/Divyam-Padole/Data-Analysis-Toolkit/assets/104207473/8c1b7d8c-c2d6-4c98-93d9-06f2b851f3e0)
 
 ![Screenshot (141)](https://github.com/Divyam-Padole/Data-Analysis-Toolkit/assets/104207473/e16169bd-9b51-4ae8-ba6e-fa9a1b7d3753)
+
+Dynamic Documentation can provide by the toolkit
+
+![Screenshot (150)](https://github.com/Divyam-Padole/Data-Analysis-Toolkit/assets/104207473/931c2c2e-c934-4efb-894d-82cf4fbfa63a)
 
 
 *Please note that the project is currently under development. More tabs will be added in the future, including a Data Analysis Tab and additional machine learning algorithms in the Preprocessing Tab. Thank you for your interest*
